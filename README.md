@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://camo.githubusercontent.com/7d9fdc76668a3878501da75f918e90b5f05a8bb8c4bdb1cca006048c61be09cd/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d347261316e2673686f775f69636f6e733d74727565267468656d653d6461726b" alt="Profile" data-canonical-src="https://github-readme-stats.vercel.app/api?username=smilexxfire&amp;show_icons=true&amp;theme=dark" style="max-width: 100%;">
 <!--
 **smilexxfire/smilexxfire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
